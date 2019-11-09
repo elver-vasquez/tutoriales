@@ -1,0 +1,35 @@
+
+    .contenedor{
+        background-color: aquamarine;
+        display: flex;
+
+
+    }
+    .caja1{
+        background-color: blueviolet;
+        width: 5%;
+        height: 250px;
+
+    }
+    .caja2{
+        background-color: orange;
+
+        width: 20%;
+        height: 250px;
+    }
+    .caja3{
+        background-color: #a39574;
+        
+        width: 70%;
+        height: 250px;
+    }
+    .caja4{
+        background-color: #bf4710;
+        
+        width: 10%;
+        height: 250px;
+    }
+    .fondo-oscuro{
+        background-color:#000;
+    }
+    
